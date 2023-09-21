@@ -241,7 +241,7 @@ button {
 }
 .main_bt {
 	background: #0F203C;
-	color: #fff;
+	color: #000;
 	padding: 10px 60px 10px 60px;
 	float: left;
 	font-size: 15px;
@@ -256,9 +256,9 @@ a.readmore_bt {
 	text-decoration: underline !important;
 }
 .main_bt:hover, .main_bt:focus {
-	background: #ad2101;
+	background: #F9D900;
 	
-	color: #fff;
+	color: #000;
 }
 /**-- list icon --**/
 
@@ -371,7 +371,7 @@ a.readmore_bt {
 
 
 .head-top {
-	background: #ad2100;
+	background: #F9D900;
 	padding: 6px 0px;
 }
 .head-top .email a {
@@ -412,7 +412,7 @@ nav.main-menu {
 	margin-left: 0;
 }
 .menu-area-main li:hover a, .menu-area-main li:focus a {
-	color: #E3384A;
+	color: #F3F903;
 }
 .menu-area-main li.active a {
 	color: #b23011;
@@ -1457,7 +1457,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	font-weight: 500;
 }
 .Currency .three-box {
-	border-top: #ff0000 solid 2px;
+	border-top: #F3F903 solid 2px;
 	text-align: center;
 }
 .Currency .three-box figure {
@@ -1555,7 +1555,7 @@ input[type="checkbox"] .styled:checked+label::after, input[type="radio"] .styled
 	color: #fff;
 }
 .service .world {
-	background-color: #E3384A;
+	background-color: #F3F903;
 	text-align: center;
 	padding: 40px 40px;
 	margin-top: 30px;
